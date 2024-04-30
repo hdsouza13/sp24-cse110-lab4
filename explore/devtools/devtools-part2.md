@@ -1,6 +1,7 @@
-1. The bug was that the "sum" was actually concatenating two strings together.
+1. What was the bug? The bug was that the "sum" was actually concatenating two strings together.
 
-2. ```
+2. How would you fix it? 
+```
 // part1.js
 
 function printSum() {
